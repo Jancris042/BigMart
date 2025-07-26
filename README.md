@@ -143,7 +143,3 @@ The cleaned data is visualized in Power BI, providing clear insights into BigMar
 
 BigMart Sales & Market Analysis  
 **Contributor:** Jancris Paul Oporto | [oportojancrispaulavila25@gmail.com]
-
----
-
-**✅ Ready to explore — Happy analyzing!**
